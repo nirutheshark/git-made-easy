@@ -1,0 +1,5 @@
+Git quick start
+
+git status: shows status
+git add: stages changes to commit
+git commit: records staged changes to history
